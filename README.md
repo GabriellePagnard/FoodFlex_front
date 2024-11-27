@@ -97,7 +97,11 @@ Foodflex est une application qui vous permet de planifier vos repas hebdomadaire
 <br>
 <br>
 
-[Démo vidéo du projet sur ordinateur 🎥](https://www.youtube.com/watch?v=-4THldWYoGM)
+[Démo vidéo du projet sur ordinateur 🎥](https://www.youtube.com/watch?v=-4THldWYoGM)   
+
+<br>
+
+[Démo vidéo du projet sur mobile 🎥](https://youtube.com/shorts/MRqO9002zDc?feature=share)   
 
 <br>
 <br>
