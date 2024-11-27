@@ -9,3 +9,8 @@ export interface ScheduleType {
   week: number;
   meals: Week[];
 }
+
+export interface ScheduleState {
+  clickAddSchedule: () => void;
+  schedule: ScheduleType;
+}
